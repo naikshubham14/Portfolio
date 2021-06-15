@@ -1,6 +1,6 @@
 .project-image
 {
-  transition: transform .6s;
+  transition: transform 1.3s;
 }
 
 .project-image:hover
