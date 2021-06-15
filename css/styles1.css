@@ -1,3 +1,8 @@
+.project-image
+{
+  transition: transform .6s;
+}
+
 .project-image:hover
 {
   transform: scale(1.2);
